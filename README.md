@@ -130,6 +130,26 @@ application is running:
 
     $ sort -n memory.current-senpai.log | tail -n 1
     347762688
+## ABOUT SECTION (Recommended Addition):
+The about section is very vague and does not tell the audience exactly what this product can do. This tool can potentially be more widespread and investigated if there were more descriptive capabilities of this tool. Since the target audience is more directed to consumers, a simplified version describing the benefits of this tool can be beneficial.
+
+## INSTALLATION SECTION(Recommended Addition):
+Due to the intended target audience being consumers, there should potentially be a section dedicated to the installation instructions for this tool. Assuming that the consumers do not care how the logic aspects of the tool functions, a clear step-by-step instruction manual to assist the consumer to apply the tool would be greatly beneficial to include in the README doc.
+
+## EXAMPLE SECTION(Recommended Addition):
+The example section provided does showcase its usage and demonstrate its functionality, however there could potentially be more descriptive manners of the results shown when the tool is used. This would help elevate the product's readability and 
+
+## FEATURES SECTION(Recommended Addition):
+An included feature section would promote readability and will quickly allow consumers to understand whether this product is tailored for them. Including features would also fortify the product as it lists out all the potential capabilities and 
+
+## CITATIONS SECTION(Recommended Addition):
+Including a citations section with this product can elevate its community engagement and transparency. It can also show acknowledgment and inspiration that showcases the beliefs and backgrounds of this product.
+
+## CONTACT SECTION(Recommended Addition):
+Including contact information of the contributor promotes contributions and others to participate in advancing the product.
+
+## CONTRIBUTE SECTION(Recommended Addition):
+Including this section would allow those that contribute to be aware of the issues amongst this product.  
 
 ## Requirements
 * Linux v4.20 or up with CONFIG_PSI=y
